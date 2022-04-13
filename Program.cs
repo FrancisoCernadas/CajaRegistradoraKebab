@@ -6,7 +6,7 @@ namespace Proyecto_Francisco_Cernadas_PR2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fran sapo teton!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
