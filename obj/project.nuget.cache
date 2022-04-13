@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iIfv1l6YvID+cvAg3rZwUnRfNRnF0VD2fr0w/pqugY5zXSkjnKiim8Rxlr98DCUaI0TrLCsbGSDWFgov7owAcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Repos\\CajaRegistradoraKebab\\Proyecto Francisco Cernadas PR2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
